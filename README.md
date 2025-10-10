@@ -28,4 +28,5 @@ This repository contains my completed practical assignments for the CSU1658 cour
 | Assignment | Key Topics Covered | Link to Folder |
 | :--- | :--- | :--- |
 | **Practical Assignment 1** | Central Tendency, Z-Scores, Data Binning, NumPy. | [View Assignment](./Practical-Assignments/Assignment-1/) |
-| **...** | *(More assignments will be added as they are completed)* | |
+| **Practical Assignment 2** | Exploratory Data Analysis & Group Comparisons. | [View Assignment](./Practical-Assignments/Assignment-2/) |
+| **Practical Assignment 3** | Advanced Filtering & Multi-Variable Visualization. | [View Assignment](./Practical-Assignments/Assignment-3/) |
