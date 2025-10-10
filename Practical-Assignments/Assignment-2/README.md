@@ -4,7 +4,7 @@ This notebook contains the solution for the second practical assignment, which f
 
 ---
 
-## 📝 Problems Solved
+## Problems Solved
 
 This analysis answers six key questions about the dataset:
 
@@ -17,7 +17,7 @@ This analysis answers six key questions about the dataset:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Python**
 * **Pandas** for data manipulation and analysis.
 * **NumPy** for numerical operations.
