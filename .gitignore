@@ -1,0 +1,11 @@
+# --- Standard Junk Files ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# --- Folders I want to keep LOCAL ONLY (Do not upload) ---
+junk_folder/
+Practical-01/
+Practical-02/
+Practical-03/
